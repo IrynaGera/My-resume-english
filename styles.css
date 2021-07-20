@@ -1,0 +1,10 @@
+.row {
+    display: flex;
+        justify-content: start;
+}
+.text-centre {
+    text-align: center;
+}
+.disposal {
+    padding: 20px;
+}
